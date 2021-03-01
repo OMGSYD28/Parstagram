@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/OMGSYD28/Parstagram/blob/main/ezgif.com-gif-maker%20(4).gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
